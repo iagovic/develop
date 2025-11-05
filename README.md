@@ -1,5 +1,7 @@
-# LINKS PARA QA
-link do azure organizations:https://dev.azure.com/MotoScript/MotoScript
+#Links para Consulta - Qualidade de Software (QA):
 
+Azure Organizations: Acesse a organização no Azure, onde estão centralizados os projetos da MotoScript, através do seguinte link: Azure MotoScript
+.
 
-link para o youtube:https://youtu.be/-uePLW6KrNc
+Vídeo no YouTube: Para as informações dos testes automaticos :
+.
