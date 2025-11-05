@@ -1,2 +1,3 @@
-# develop
-readme para a materia de QA 
+# LINKS PARA QA
+link do azure organizations   https://dev.azure.com/MotoScript/MotoScript
+link para o youtube
